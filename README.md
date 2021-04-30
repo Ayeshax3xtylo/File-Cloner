@@ -63,7 +63,7 @@ $ python2 filecr3k.py
 #### [~] Single Command
 
 ```python
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Azim-vau/Azim0.6.git ; cd Azim0.6 ; python2 azim0.6.py
+pkg update -y ; pkg upgrade -y ; pkg install python -y ; pkg install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pip2 install lolcat ; pkg install git -y ; git clone https://github.com/Azim-vau/File-Cloner ; cd File-Cloner ; python2 filecr3k.py
 ```
 #### MY SOCIAL MEDIA
 
