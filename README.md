@@ -48,6 +48,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 ```python
 $ apt update && apt upgrade
 $ apt install python2
+$ apt install nodejs
 $ pip2 install mechanize
 $ pip2 install requests bs4
 $ apt install git
@@ -63,7 +64,7 @@ $ python2 filecr3k.py
 #### [~] Single Command
 
 ```python
-pkg update -y ; pkg upgrade -y ; pkg install python -y ; pkg install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pip2 install lolcat ; pkg install git -y ; git clone https://github.com/Azim-vau/File-Cloner ; cd File-Cloner ; python2 filecr3k.py
+apt update -y ; apt upgrade -y ; apt install nodejs -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pip2 install lolcat ; apt install git -y ; git clone https://github.com/Azim-vau/File-Cloner ; cd File-Cloner ; python2 filecr3k.py
 ```
 #### MY SOCIAL MEDIA
 
