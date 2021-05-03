@@ -37,7 +37,7 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
   </a>
 
 <a href="https://github.com/Azim-Vau/File-Cloner">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/File-Cloner.svg"/> <a href="https://github.com/Yayan-XD/File-Cloner">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/File-Cloner.svg"/> <a href="https://github.com/Azim-Vau/File-Cloner">
     <img alt="Forks" src="https://img.shields.io/github/forks/Azim-vau/File-Cloner.svg"/>
   </a>
 </div>
